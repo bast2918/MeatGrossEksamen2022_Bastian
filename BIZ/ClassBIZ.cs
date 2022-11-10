@@ -31,7 +31,7 @@ namespace BIZ
         /// </summary>
 		public ClassBIZ()
 		{
-            //Initialiserer properties
+            		//Initialiserer properties
 			listCustomer = SetUpListCustomer();
 			listCountry = SetUpListCountry();
 			listMeat = SetUpListMeat();
